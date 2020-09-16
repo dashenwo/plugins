@@ -1,4 +1,4 @@
-module github.com/dashenwo/plugins/zap/v3
+module github.com/dashenwo/plugins/logger/zap/v3
 
 go 1.14
 
