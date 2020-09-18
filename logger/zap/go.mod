@@ -1,8 +1,8 @@
-module github.com/dashenwo/plugins/logger/zap/v3
+module github.com/dashenwo/plugins/logger/zap/v2
 
 go 1.14
 
 require (
-	github.com/micro/go-micro/v3 v3.0.0-beta.2
+	github.com/micro/go-micro/v2 v2.9.1
 	go.uber.org/zap v1.16.0
 )
